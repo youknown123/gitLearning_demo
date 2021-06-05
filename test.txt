@@ -1,4 +1,0 @@
-log 'hello world'
-log '122344444'
-log devdevdev
-dev
